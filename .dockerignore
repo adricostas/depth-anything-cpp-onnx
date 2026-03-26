@@ -1,0 +1,7 @@
+build/
+bin/
+outputs/
+*.jpg
+*.onnx
+.DS_Store
+.git/
